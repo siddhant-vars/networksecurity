@@ -5,9 +5,12 @@ pymongo
 certifi
 pymongo[srv]
 scikit-learn
-mlflow
+mlflow<3
 pyaml
 urllib3==1.26.20
-
+dagshub
+fastapi
+uvicorn
+python-multipart
 
 ##-e .
